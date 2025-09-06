@@ -1,0 +1,21 @@
+[
+    {"category": "Groceries", "budget": 500},
+    {"category": "Ollie & Cudi", "budget": 120},
+    {"category": "Dining", "budget": 600},
+    {"category": "Subscription", "budget": 50},
+    {"category": "Networking", "budget": 100},
+    {"category": "Bank Fees", "budget": 20},
+    {"category": "Transport", "budget": 200},
+    {"category": "Coffee", "budget": 40},
+    {"category": "Entertainment", "budget": 600},
+    {"category": "Travel", "budget": 400},
+    {"category": "Utilities", "budget": 450},
+    {"category": "Phone & Internet", "budget": 208.25},
+    {"category": "Shopping", "budget": 400},
+    {"category": "Health", "budget": 375},
+    {"category": "Fitness", "budget": 160},
+    {"category": "Insurance", "budget": 450},
+    {"category": "Mortgage", "budget": 1776},
+    {"category": "Interest", "budget": 0},
+    {"category": "Uncategorized", "budget": 0}
+]

@@ -1,0 +1,21 @@
+{
+    "Groceries": ["Walmart", "Costco", "H mart", "T&T", "Superstore", "sobeys", "calg co-op", "Wah Hing"],
+    "Ollie & Cudi": ["pet", "Trupanion", "veterinary"],
+    "Dining": ["italian","MCDONALD", "Subway", "Papa Johns", "shawarma", "korean", "chinese", "popeyes", "bbq", "steak", "donut", "pizza", "A&W", "brewery", "brewing", "poong", "7-eleven", "beverage"],
+    "Subscription": ["apple", "GODADDY.COM", "Google", "zoom", "openai"],
+    "Networking": ["showpass"],
+    "Bank Fees": ["fee", "service charge"],
+    "Transport": ["Uber", "Esso", "Shell", "Petro"],
+    "Coffee": ["Tim Hortons", "Starbucks", "Coffee", "Cafe", "phil & seb", "monogram"],
+    "Entertainment": ["Netflix", "Spotify", "Cineplex", "golf", "ski", "nintendo", "Event"],
+    "Travel": ["Airbnb", "Expedia", "Air Canada", "WestJet", "Hotel"],
+    "Utilities": ["Hydro", "Enmax"],
+    "Phone & Internet": ["Telus", "Rogers", "Bell"],
+    "Shopping": ["Amazon", "Best Buy", "Winners", "Canadian Tire"],
+    "Health": ["Pharma", "Shoppers", "Dental", "Massage", "YYZ Talks", "precision perform", "illuminatewell"],
+    "Fitness": ["goodlife", "evolve"],
+    "Insurance": ["Insurance", "MAX INSURANCE"],
+    "Mortgage": ["Mortgage"],
+    "Interest": ["Interest"],
+    "Uncategorized": []
+  }
