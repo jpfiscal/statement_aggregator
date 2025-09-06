@@ -1,0 +1,9 @@
+data/archive/*
+/data/AMEXCobaltStmt.csv
+/data/AMEXGoldStmt.csv
+/data/cibcChqStmt.csv
+/data/cibcCostcoStmt.csv
+/data/cibcIndvlStmt.csv
+/data/cibc67781Stmt.csv
+/data/scotiaStmt.csv
+/data/rbcStmt.csv
